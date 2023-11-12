@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "logrocket"
+version = "0.1.0"
+description = ""
+authors = ["vorop <2vvoropaevv2@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+djangorestframework = "^3.14.0"
+django-cors-headers = "^4.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
