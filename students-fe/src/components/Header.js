@@ -9,7 +9,7 @@ class Header extends Component {
           width="300"
           className="img-thumbnail"
           style={{ marginTop: "20px" }}
-         alt={}/>
+          />
         <hr />
         <h5>
           <i>presents</i>
